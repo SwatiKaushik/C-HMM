@@ -1,5 +1,8 @@
 # C-HMM
-Program to identify remote homologues from protein sequence database
+Program to identify remote homologues from protein sequence database.
+
+Download the jar file and executable from https://github.com/SwatiKaushik/C-HMM/releases
+==========================================================================================
 
 C-HMM: Introduction
 =========================
