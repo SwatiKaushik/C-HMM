@@ -1,0 +1,335 @@
+>sp|P0AB76|KBAY_ECO57
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.8e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3e-67
+>sp|P47269|ALF_MYCGE
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 6.8e-65
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 7.2e-62
+>sp|P67478|ALF2_STAAW
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2.5e-72
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 2.9e-64
+>sp|A6TEF4|GATY_KLEP7
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 6.4e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3.4e-71
+>sp|P67477|ALF2_STAAM
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2.5e-72
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 2.9e-64
+>sp|P13243|ALF_BACSU
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 1.6e-72
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.4e-64
+>sp|P0A4S2|ALF_STRR6
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 1.5e-62
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.8e-62
+>sp|B6I1L2|KBAY_ECOSE
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.8e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3e-67
+>sp|P67475|ALF_MYCTU
+	0	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.4e-65
+>sp|Q9XDP3|ALF_NOSCO
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2.8e-59
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 2.1e-50
+>sp|Q32EA9|GATY_SHIDS
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 5e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 7.1e-69
+>sp|B7M045|KBAY_ECO8A
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.8e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3e-67
+>sp|B5YV43|GATY_ECO5E
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 1.2e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 4e-69
+>sp|O87796|ALF_PSEST
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 1.6e-65
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.7e-57
+>sp|C0PZ24|GATY_SALPC
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 8.1e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 4.5e-68
+>sp|B7UJ37|KBAY_ECO27
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 7.4e-78
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 8.6e-72
+>sp|A8AQ28|KBAY_CITK8
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.2e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.9e-68
+>sp|B5BGG5|GATY_SALPK
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 6.1e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 6.5e-73
+>sp|B7NPN7|GATY_ECO7I
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 8e-70
+>sp|B4TIX9|GATY_SALHS
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 8.1e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 4.5e-68
+>sp|Q0TCW8|KBAY_ECOL5
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.8e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3e-67
+>sp|Q8VS16|GATY_KLEOX
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 1.2e-76
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3.3e-70
+>sp|B5REK6|GATY_SALG2
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 8.1e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 4.5e-68
+>sp|P19537|ALF_CORGL
+	0	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 2.8e-64
+>sp|P68906|ALF_STRP8
+	0	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3.3e-64
+	1	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2.2e-63
+>sp|P94453|ALF_GEOSE
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 1.6e-73
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 7.1e-67
+>sp|Q5WKY5|IOLJ_BACSK
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 1.2e-73
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 4.8e-69
+>sp|Q703I2|ALF_THECA
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2.6e-65
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 8.9e-59
+>sp|P27995|ALF1_RHOSH
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 1e-66
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 4.1e-58
+>sp|B4T6B9|GATY_SALNS
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 8.5e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3.6e-68
+>sp|B5YS30|KBAY_ECO5E
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.8e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3e-67
+>sp|Q8XGZ9|GATY_SALTI
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 4.5e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3.8e-73
+>sp|A1ACW2|GATY_ECOK1
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2.3e-78
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 5.1e-71
+>sp|B7NKL0|KBAY_ECO7I
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.7e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 2.5e-67
+>sp|Q6GEV0|ALF2_STAAR
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2.5e-72
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 2.9e-64
+>sp|P0CZ58|ALF_STRP3
+	0	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3.7e-64
+	1	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2.1e-63
+>sp|Q1R9X7|GATY_ECOUT
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2.3e-78
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 5.1e-71
+>sp|B7NDC5|KBAY_ECOLU
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.7e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 2.5e-67
+>sp|B7NCC6|GATY_ECOLU
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 5e-78
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3.8e-71
+>sp|A7ZNR5|GATY_ECO24
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 4.2e-78
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.2e-70
+>sp|Q5XA12|ALF_STRP6
+	0	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 5.1e-66
+	1	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 4.9e-65
+>sp|A9N6Z8|GATY_SALPB
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 4.4e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 4.5e-73
+>sp|Q55664|ALF2_SYNY3
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 7.9e-68
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 2.3e-59
+>sp|B7UFB3|GATY_ECO27
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3e-78
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 2.1e-71
+>sp|B7MEF1|GATY_ECO45
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2.3e-78
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 5.1e-71
+>sp|Q5HM97|ALF2_STAEQ
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 4e-72
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 2.2e-66
+>sp|P0C8J6|GATY_ECOLI
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 4.5e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.1e-69
+>sp|B2TY92|GATY_SHIB3
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2.5e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 9.1e-70
+>sp|B1IYY4|GATY_ECOLC
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 4.5e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.1e-69
+>sp|Q0TFZ6|GATY_ECOL5
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 1.2e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 7.7e-69
+>sp|C4ZR47|KBAY_ECOBW
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.8e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3e-67
+>sp|Q9X8R6|ALF_STRCO
+	0	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.2e-66
+>sp|Q8CNI3|ALF2_STAES
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 4e-72
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 2.2e-66
+>sp|P0AB75|KBAY_ECOL6
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.8e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3e-67
+>sp|P56109|ALF_HELPY
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 5.8e-72
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 2.5e-65
+>sp|B7MB62|KBAY_ECO45
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.8e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3e-67
+>sp|Q9KIP8|KBAY_ECOLX
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 4.2e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 2.8e-67
+>sp|Q9ZEM7|ALF_STRGB
+	0	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.9e-66
+>sp|P0C8J7|GATY_ECOLX
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2.1e-76
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 9.4e-69
+>sp|B1LN92|GATY_ECOSM
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2.5e-78
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 2.6e-70
+>sp|P0CZ59|ALF_STRPQ
+	0	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3.7e-64
+	1	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2.1e-63
+>sp|O83668|ALF_TREPA
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 4.2e-64
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.6e-58
+>sp|Q8X4R2|GATY_ECO57
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 1.2e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 4e-69
+>sp|P58336|ALF_RHIME
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2.2e-68
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 4.3e-60
+>sp|P67476|ALF_MYCBO
+	0	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.4e-65
+>sp|Q8YNK2|ALF_NOSS1
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 1.4e-58
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 2.3e-51
+>sp|Q65D09|IOLJ_BACLD
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 6.4e-76
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 6e-70
+>sp|P75089|ALF_MYCPN
+	0	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3.9e-66
+	1	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 1.7e-65
+>sp|B4TWB0|GATY_SALSV
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 5.7e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1e-67
+>sp|P29271|ALF2_RHOSH
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 8.3e-68
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3.2e-60
+>sp|Q83QY5|GATY_SHIFL
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 5.2e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 8.1e-70
+>sp|P0A4S1|ALF_STRPN
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 1.5e-62
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.8e-62
+>sp|C4ZSI0|GATY_ECOBW
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 4.5e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.1e-69
+>sp|A7ZS33|KBAY_ECO24
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.8e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3e-67
+>sp|Q9I5Y1|ALF_PSEAE
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 1.7e-57
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.7e-50
+>sp|Q5HE75|ALF2_STAAC
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2.5e-72
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 2.9e-64
+>sp|P0AB74|KBAY_ECOLI
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.8e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3e-67
+>sp|A1AG46|KBAY_ECOK1
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.8e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3e-67
+>sp|O69600|ALF_MYCLE
+	0	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.6e-66
+>sp|Q57JK9|GATY_SALCH
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 4.8e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 9e-69
+>sp|Q9PPP3|ALF_UREPA
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2.6e-69
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 9.8e-66
+>sp|A8A4V3|KBAY_ECOHS
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.8e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3e-67
+>sp|B7N0S6|KBAY_ECO81
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.8e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3e-67
+>sp|Q1R6K0|KBAY_ECOUT
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.8e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3e-67
+>sp|Q5PL86|GATY_SALPA
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 6.1e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 6.5e-73
+>sp|Q9KAH3|IOLJ_BACHD
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2.8e-76
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.1e-70
+>sp|A7ZAH2|IOLJ_BACA2
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3e-75
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.1e-70
+>sp|Q8FFY7|GATY_ECOL6
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.9e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 8.1e-69
+>sp|B1IRH9|KBAY_ECOLC
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.8e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3e-67
+>sp|Q56815|ALF_XANFL
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2.1e-68
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3.9e-58
+>sp|P42420|IOLJ_BACSU
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 1.4e-70
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.1e-62
+>sp|B1LFP2|KBAY_ECOSM
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.7e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 2.5e-67
+>sp|B1XGU9|KBAY_ECODH
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.8e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3e-67
+>sp|B7LH72|KBAY_ECO55
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.8e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3e-67
+>sp|P68905|ALF_STRP1
+	0	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3.3e-64
+	1	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2.2e-63
+>sp|Q59100|ALF1_CUPNH
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 1.6e-67
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 4.9e-61
+>sp|Q7CPQ7|GATY_SALTY
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 4.5e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 3.8e-73
+>sp|B1X7I7|GATY_ECODH
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 4.5e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.1e-69
+>sp|Q89AB6|ALF_BUCBP
+	0	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 2.1e-69
+>sp|Q0T342|GATY_SHIF8
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 4.4e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 7.2e-70
+>sp|Q323C6|GATY_SHIBS
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 1.2e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 2.1e-71
+>sp|Q3Z0B4|GATY_SHISS
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.9e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.6e-69
+>sp|B7M477|GATY_ECO8A
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2.5e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 9.1e-70
+>sp|B7L9W7|GATY_ECO55
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 1.9e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 4e-70
+>sp|A4WEV6|KBAY_ENT38
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 3.2e-76
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.4e-66
+>sp|P56888|ALF_SINMW
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 4.8e-70
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 8.4e-64
+>sp|Q9ZMQ6|ALF_HELPJ
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 5e-71
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 2.1e-65
+>sp|Q6G7I5|ALF2_STAAS
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2.5e-72
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 2.9e-64
+>sp|Q59101|ALF2_CUPNH
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 9.3e-67
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 4.2e-61
+>sp|A8A1W1|GATY_ECOHS
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 4.5e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.1e-69
+>sp|P99075|ALF2_STAAN
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 2.5e-72
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 2.9e-64
+>sp|B7LMU4|KBAY_ESCF3
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 4.6e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 1.9e-68
+>sp|A9MPP7|KBAY_SALAR
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 8.6e-78
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 2.2e-72
+>sp|B5QZS8|GATY_SALEP
+	0	Sequence Name: sp|P77704|YDJI_ECOLI  Uncharacterized protein ydjI OS=Escherichia coli (strain K12) GN=ydjI PE=4 SV=1	Evalue: 8.1e-77
+	1	Sequence Name: sp|P0CJ44|ALF_COCIM  Putative fructose-bisphosphate aldolase OS=Coccidioides immitis (strain RS) GN=CIMG_05755 PE=1 S	Evalue: 4.5e-68
