@@ -89,9 +89,9 @@ Length filter defines the alignment length between the query and hit sequence. E
 
 6. cascade.continuation: User can reinitiate cascade searches from the results of previous generation using this option. By default this option is set to "no". To continue sequence searches turn it to "yes".
 
-7.cascade.continuedGeneration: User has to define the name of generation from which to reinitiate sequence searches. For eg. if you want to start from third generation than cascade.continuedGeneration=3.
+7. cascade.continuedGeneration: User has to define the name of generation from which to reinitiate sequence searches. For eg. if you want to start from third generation than cascade.continuedGeneration=3.
 
-8.cascade.continuationPrevGenOutput: In this parameter user has to describe the path of previous generation output files. For eg. if you want to restart third generation, give path of the output of second generation.
+8. cascade.continuationPrevGenOutput: In this parameter user has to describe the path of previous generation output files. For eg. if you want to restart third generation, give path of the output of second generation.
 
 9. cascade.continuationExistingHitFile: Provide path to "commulative_result_seq_name.out" file of the previous generation.
 
