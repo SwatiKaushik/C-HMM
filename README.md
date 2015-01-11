@@ -110,4 +110,4 @@ Length filter defines the alignment length between the query and hit sequence. E
 16. cascade.binaryPath.- : Provide path to different binaries used by C-HMM.
 
 
----------------------------------X Happy Cascading X--------------------------------------
+--------------------------------------X Happy Cascading X------------------------------------------------------
