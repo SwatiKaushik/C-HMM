@@ -58,7 +58,7 @@ Computational Requirements
 C-HMM can be run on linux/mac OS. C-HMM memory requirement depends on the size of sequence database. We recommend to use high memory machines/clusters. It is a multithreaded program implemented in Java. Multithreading options (# of threads, # of cpu per thread, maximum # of threads) can be declared in cascade.properties/cascade.properties-cust files.
 
 
-Results analysis
+Results Analysis
 ==========================
 
 After completion of a sequence searches, C-HMM provides separate directories for each generation. Each generation directory would contain 3 results files:
@@ -70,7 +70,7 @@ After completion of a sequence searches, C-HMM provides separate directories for
 If user has opted for clustering of hits, each generation directory would also have gen_#_result_nr.out.clstr file. This file has information about clustering of hits.
 
 
-Cascade Property file 
+Cascade Property File 
 ===============================
 C-HMM provides many user defined options which can be declared in property file. All the options provided in the property files are explained below:
 
