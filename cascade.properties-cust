@@ -13,17 +13,17 @@ cascade.outputFileExtension=out
 	#connection file extension
 cascade.connectionFileExtension=conn
 	#path to input directory
-cascade.inputDirectory=/home/swati/Desktop/c-hmm/Cascade-HMM/test-run
+cascade.inputDirectory=/home/c-hmm/Cascade-HMM/test-run
 	#path to output directory
-cascade.outputDirectory=/home/swati/Desktop/c-hmm/Cascade-HMM/test-run
+cascade.outputDirectory=/home/c-hmm/Cascade-HMM/test-run
 	#path to protein sequence database
-cascade.seqDatabase=/home/swati/Desktop/c-hmm/Cascade-HMM/PALI_plus_2010_PP_2
+cascade.seqDatabase=/home/c-hmm/Cascade-HMM/PALI_plus_2010_PP_2
 	#path to HMMER3 binaries
-cascade.binaryPath.hmmBuild=/home/swati/Desktop/hmmer-3.1b1-linux-intel-x86_64/binaries/hmmbuild
-cascade.binaryPath.hmmAlign=/home/swati/Desktop/hmmer-3.1b1-linux-intel-x86_64/binaries/hmmalign
-cascade.binaryPath.hmmSearch=/home/swati/Desktop/hmmer-3.1b1-linux-intel-x86_64/binaries/hmmsearch
+cascade.binaryPath.hmmBuild=/home/hmmer-3.1b1-linux-intel-x86_64/binaries/hmmbuild
+cascade.binaryPath.hmmAlign=/home/hmmer-3.1b1-linux-intel-x86_64/binaries/hmmalign
+cascade.binaryPath.hmmSearch=/home/hmmer-3.1b1-linux-intel-x86_64/binaries/hmmsearch
 	#path to CD-hit
-cascade.binaryPath.cdHit=/home/swati/Desktop/cd-hit-v4.6.1-2012-08-27/cd-hit
+cascade.binaryPath.cdHit=/home/cd-hit-v4.6.1-2012-08-27/cd-hit
 
 
 #-----------------------------------------------------------------------------------------
@@ -55,9 +55,9 @@ cascade.continuation=no
 	#If yes, define which generation to continue 
 cascade.continuedGeneration=3
 	#Path of output from previous generation
-cascade.continuationPrevGenOutput=/home1/swati1/swati/cascade-hmm/cascade-hmm-anu-updated/winged-helix-DNA/gen_2_result/gen_2_result.out
+cascade.continuationPrevGenOutput=/home/cascade-hmm/A/gen_2_result/gen_2_result.out
 	#Path of hitfile from previous generation
-cascade.continuationExistingHitFile=/home1/swati1/swati/cascade-hmm/cascade-hmm-anu-updated/winged-helix-DNA/gen_2_result/commulative_result_seq_name.out
+cascade.continuationExistingHitFile=/home/cascade-hmm/A/gen_2_result/commulative_result_seq_name.out
 
 #-----------------------------------------------------------------------------------------
 # Multithreading options
