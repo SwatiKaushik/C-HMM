@@ -1,0 +1,29 @@
+Cascaded search started...
+Generation: 1 started
+Sequence search started for generation 1. It may take a while...
+Sequence search done
+Number of total hits found for this generation: 58
+Number of hits filtered out using filters: 10
+Number of unique valid hits for this generation: 48
+Generation 1 results are written to /home/Desktop/CS-CASCADE/gen_1_result/gen_1_result.out
+Number of candidates as next generation query: 48
+Generation: 1 ended
+Generation: 2 started
+Sequence search started for generation 2. It may take a while...
+Sequence search done
+Number of total hits found for this generation: 2196
+Number of hits filtered out using filters: 1278
+Number of unique valid hits for this generation: 50
+Generation 2 results are written to /home/Desktop/CS-CASCADE/gen_2_result/gen_2_result.out
+Number of candidates as next generation query: 50
+Generation: 2 ended
+Generation: 3 started
+Sequence search started for generation 3. It may take a while...
+Sequence search done
+Number of total hits found for this generation: 2405
+Number of hits filtered out using filters: 1433
+Number of unique valid hits for this generation: 0
+No new hits found in generation 3
+Termination Flag set for completion
+Generation: 3 ended
+Cascaded search terminated...
