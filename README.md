@@ -4,8 +4,8 @@ Program to identify remote homologues from protein sequence database.
 **Download the jar file and executable from https://github.com/SwatiKaushik/C-HMM/releases**
 
 
-C-HMM: Introduction
-=========================
+Introduction
+---------------------------
 
 C-HMM is a software to detect remote/distant homologues from protein sequence databases. It is based on HMMs(Hidden Markov Models) for identifying the deep evolutionary relationships of protein sequences. The aim of developing C-HMM is to provide a platform for identifying distant protein relationships in less computational time against any user defined protein sequence database. C-HMM is divided into three modules:
 
@@ -16,7 +16,7 @@ C-HMM is a software to detect remote/distant homologues from protein sequence da
 3. Cluster-HMM: This module allows clustering of the hits obtained by Cascade-HMM after every generation. This helps in reducing the search timings. It can be combined with Cascade-HMM.
 
 Requirements
-=========
+-------------------
 
 For initiating C-HMM searches user must have following files: 
 
@@ -32,7 +32,7 @@ Before commencing sequence searches change the path of above files and binaries 
 
 
 Usage
-=============
+-----------------------
 
 C-HMM is precompiled with Java7(CascadeCUST.jar). If you are using lower version of Java, recompile the source code (CascadeCUST.tar) using the following commands: 
 
@@ -44,7 +44,7 @@ C-HMM is precompiled with Java7(CascadeCUST.jar). If you are using lower version
 6. /path/apache-ant-1.5.2/bin/ant
 
 Run C-HMM
-==========
+-------------------
 
 C-HMM can be called using following commands:
 
@@ -56,13 +56,13 @@ java -jar CascadeCUST.jar cascade.properties-cust
 
 
 Computational Requirements
-=============================
+-------------------------------
 
 C-HMM can be run on linux/mac OS. C-HMM memory requirement depends on the size of sequence database. We recommend to use high memory machines/clusters. It is a multithreaded program implemented in Java. Multithreading options (# of threads, # of cpu per thread, maximum # of threads) can be declared in cascade.properties/cascade.properties-cust files.
 
 
 Results Analysis
-==========================
+---------------------
 
 After completion of a sequence searches, C-HMM provides separate directories for each generation. Each generation directory would contain 3 results files:
 
@@ -74,7 +74,7 @@ If user has opted for clustering of hits, each generation directory would also h
 
 
 Cascade Property File 
-===============================
+------------------------
 C-HMM provides many user defined options which can be declared in property file. All the options provided in the property files are explained below:
 
 1. cascade.maxGeneration: This parameter defines the maximum number of generations for which user wants to initiate C-HMM. 
