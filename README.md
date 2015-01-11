@@ -31,7 +31,7 @@ Before commencing sequence searches change the path of above files and binaries 
 Usage
 =============
 
-C-HMM is precompiled with Java7. If you are using lower version of Java, recompile the source code using the following commands: 
+C-HMM is precompiled with Java7(CascadeCUST.jar). If you are using lower version of Java, recompile the source code (CascadeCUST.tar) using the following commands: 
 
 1. Download and extract apache ant
 2. export ANT_HOME="path to ANT directory"
