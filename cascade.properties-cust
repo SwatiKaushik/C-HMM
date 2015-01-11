@@ -1,0 +1,87 @@
+# C-HMM property file to run Custom-HMM
+
+########################### * ######### * ######### * ####################################
+
+#-----------------------------------------------------------------------------------------
+# Background program binary paths and extensions
+#-----------------------------------------------------------------------------------------
+	
+	#input file extension	
+cascade.inputFileExtension=query
+	#output file extension
+cascade.outputFileExtension=out
+	#connection file extension
+cascade.connectionFileExtension=conn
+	#path to input directory
+cascade.inputDirectory=/home/swati/Desktop/c-hmm/Cascade-HMM/test-run
+	#path to output directory
+cascade.outputDirectory=/home/swati/Desktop/c-hmm/Cascade-HMM/test-run
+	#path to protein sequence database
+cascade.seqDatabase=/home/swati/Desktop/c-hmm/Cascade-HMM/PALI_plus_2010_PP_2
+	#path to HMMER3 binaries
+cascade.binaryPath.hmmBuild=/home/swati/Desktop/hmmer-3.1b1-linux-intel-x86_64/binaries/hmmbuild
+cascade.binaryPath.hmmAlign=/home/swati/Desktop/hmmer-3.1b1-linux-intel-x86_64/binaries/hmmalign
+cascade.binaryPath.hmmSearch=/home/swati/Desktop/hmmer-3.1b1-linux-intel-x86_64/binaries/hmmsearch
+	#path to CD-hit
+cascade.binaryPath.cdHit=/home/swati/Desktop/cd-hit-v4.6.1-2012-08-27/cd-hit
+
+
+#-----------------------------------------------------------------------------------------
+# Different parameters
+#-----------------------------------------------------------------------------------------
+	#Define maximum number of generations
+cascade.maxGeneration=5
+#Define E-value
+cascade.evalueCutoff=1.0e-3
+	#Define h-value and length filter
+cascade.subjectFilters={in.res.ncbs.cascade.filter.EvalueFilter 1.0e-3}, {in.res.ncbs.cascade.filter.LengthFilter 75}
+	#number of iterations to run in each generation
+cascade.perGenerationIteration=4
+	#Define maximum number of queries to use for next generation
+#cascade.maxQueries=1000
+
+#-----------------------------------------------------------------------------------------
+# Clustering options to include Cluster-HMM
+#-----------------------------------------------------------------------------------------
+	
+	#Define parameters for clustering: CD-hit
+cascade.custJack.custJackClust={$cascade.binaryPath.cdHit} -i {#inputFile} -d 0 -o {#outputFile} -c 0.9 -n 5 -G 1 -g 1 -b 20 -s 0.0 -aL 0.0 -aS 0.0
+
+#-----------------------------------------------------------------------------------------
+# Cascade run continuation options 
+#-----------------------------------------------------------------------------------------
+	#Define if continuing C-HMM runs from previous generation
+cascade.continuation=no
+	#If yes, define which generation to continue 
+cascade.continuedGeneration=3
+	#Path of output from previous generation
+cascade.continuationPrevGenOutput=/home1/swati1/swati/cascade-hmm/cascade-hmm-anu-updated/winged-helix-DNA/gen_2_result/gen_2_result.out
+	#Path of hitfile from previous generation
+cascade.continuationExistingHitFile=/home1/swati1/swati/cascade-hmm/cascade-hmm-anu-updated/winged-helix-DNA/gen_2_result/commulative_result_seq_name.out
+
+#-----------------------------------------------------------------------------------------
+# Multithreading options
+#-----------------------------------------------------------------------------------------
+	#cpus per thread
+cascade.maximumThreads=4
+	#maximum number of threads
+cascade.cpuPerThread=1
+
+#-----------------------------------------------------------------------------------------
+# Background program commands
+#-----------------------------------------------------------------------------------------
+#cascade.commandPrototype={$cascade.binaryPath.jackhmmer} --cpu {$cascade.cpuPerThread} -N {$cascade.perGenerationIteration} -E {$cascade.evalueCutoff} -o {#outputFile} {#inputFile} {$cascade.seqDatabase}
+cascade.commandPrototype={$cascade.custJack.hmmBuildCommand} | {$cascade.custJack.hmmAlignCommand} | {$cascade.custJack.hmmSearchCommand} | {$cascade.custJack.iterations} | {$cascade.custJack.custJackClust}
+#cascade.clusteringCommandPrototype={$cascade.binaryPath.cdHit} -i {#inputFile} -d 0 -o {#outputFile} -c 0.9 -n 5 -G 1 -g 1 -b 20 -s 0.0 -aL 0.0 -aS 0.0
+#cascade.parserName=in.res.ncbs.cascade.resultParser.JackHmmerParser
+cascade.parserName=in.res.ncbs.cascade.resultParser.HmmerHmmsearchParser
+cascade.commandRunner=in.res.ncbs.cascade.cascade.DefaultCommandRunner
+cascade.queryWriter=in.res.ncbs.cascade.writer.FastaQueryWriter
+#cascade.sequenceSearchClass=in.res.ncbs.cascade.cascade.JackhmmerSeqSearch
+cascade.sequenceSearchClass=in.res.ncbs.cascade.cascade.CustJackhmmerSeqSearch
+cascade.custJack.hmmBuildCommand={$cascade.binaryPath.hmmBuild} {#outputFile} {#inputFile}
+cascade.custJack.hmmAlignCommand={$cascade.binaryPath.hmmAlign} -o {#outputFile} {#refhmmFile} {#inputFile}
+cascade.custJack.hmmSearchCommand={$cascade.binaryPath.hmmSearch} --incE {$cascade.evalueCutoff} -E {$cascade.evalueCutoff} -o {#outputFile} {#inputFile} {$cascade.seqDatabase}
+cascade.custJack.iterations={$cascade.perGenerationIteration}
+
+########################### * ######### * ######### * ####################################
