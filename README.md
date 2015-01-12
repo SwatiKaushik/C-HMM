@@ -9,11 +9,11 @@ Introduction
 
 C-HMM is a software to detect remote/distant homologues from protein sequence databases. It is based on HMMs(Hidden Markov Models) for identifying the deep evolutionary relationships of protein sequences. The aim of developing C-HMM is to provide a platform for identifying distant protein relationships in less computational time against any user defined protein sequence database. C-HMM is divided into three modules:
 
-1. Cascade-HMM: This is main module of C-HMM which allows sequence searches for many generations. Each generation consists of multiple Jackhmmer searches against a database. 
+1. **Cascade-HMM**: This is main module of C-HMM which allows sequence searches for many generations. Each generation consists of multiple Jackhmmer searches against a database. 
 
-2. Custom-HMM: In this module, filtered hits (first generation) obtained by Cascade-HMM are clustered and clustered hits are used to generate HMM profiles. These HMM profiles are further used for initiating next generations. 
+2. **Custom-HMM**: In this module, filtered hits (first generation) obtained by Cascade-HMM are clustered and clustered hits are used to generate HMM profiles. These HMM profiles are further used for initiating next generations. 
 
-3. Cluster-HMM: This module allows clustering of the hits obtained by Cascade-HMM after every generation. This helps in reducing the search timings. It can be combined with Cascade-HMM.
+3. **Cluster-HMM**: This module allows clustering of the hits obtained by Cascade-HMM after every generation. This helps in reducing the search timings. It can be combined with Cascade-HMM.
 
 Requirements
 -------------------
